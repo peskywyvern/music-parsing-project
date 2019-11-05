@@ -1,0 +1,1001 @@
+[
+  {
+    "name": "An Awesome Wave",
+    "year": "2012",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Intro",
+        "artist": "alt-J",
+        "duration": 157,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Interlude I",
+        "artist": "alt-J",
+        "duration": 72,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Tessellate",
+        "artist": "alt-J",
+        "duration": 182,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Breezeblocks",
+        "artist": "alt-J",
+        "duration": 229,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Interlude II",
+        "artist": "alt-J",
+        "duration": 77,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Something Good",
+        "artist": "alt-J",
+        "duration": 218,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Dissolve Me",
+        "artist": "alt-J",
+        "duration": 257,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Matilda",
+        "artist": "alt-J",
+        "duration": 228,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Ms",
+        "artist": "alt-J",
+        "duration": 239,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Fitzpleasure",
+        "artist": "alt-J",
+        "duration": 219,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Interlude III",
+        "artist": "alt-J",
+        "duration": 54,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Bloodflood",
+        "artist": "alt-J",
+        "duration": 249,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Taro",
+        "artist": "alt-J",
+        "duration": 316,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      },
+      {
+        "name": "Hand-Made",
+        "artist": "alt-J",
+        "duration": 157,
+        "year": "2012",
+        "album": "An Awesome Wave"
+      }
+    ]
+  },
+  {
+    "name": "This Is All Yours",
+    "year": "2014",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Intro",
+        "artist": "alt-J",
+        "duration": 157,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Arrival in Nara",
+        "artist": "alt-J",
+        "duration": 253,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Nara",
+        "artist": "alt-J",
+        "duration": 296,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Every Other Freckle",
+        "artist": "alt-J",
+        "duration": 216,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Left Hand Free",
+        "artist": "alt-J",
+        "duration": 172,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "\u2766 (Garden of England)",
+        "artist": "alt-J",
+        "duration": 67,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Choice Kingdom",
+        "artist": "alt-J",
+        "duration": 257,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Hunger of the Pine",
+        "artist": "alt-J",
+        "duration": 299,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Warm Foothills",
+        "artist": "alt-J",
+        "duration": 225,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "The Gospel of John Hurt",
+        "artist": "alt-J",
+        "duration": 315,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Pusher",
+        "artist": "alt-J",
+        "duration": 209,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Bloodflood, Part II",
+        "artist": "alt-J",
+        "duration": 301,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Leaving Nara",
+        "artist": "alt-J",
+        "duration": 120,
+        "year": "2014",
+        "album": "This Is All Yours"
+      },
+      {
+        "name": "Lovely Day",
+        "artist": "alt-J",
+        "duration": 241,
+        "year": "2014",
+        "album": "This Is All Yours"
+      }
+    ]
+  },
+  {
+    "name": "RELAXER",
+    "year": "2017",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "3WW",
+        "artist": "alt-J",
+        "duration": 300,
+        "year": "2017",
+        "album": "RELAXER"
+      },
+      {
+        "name": "In Cold Blood",
+        "artist": "alt-J",
+        "duration": 207,
+        "year": "2017",
+        "album": "RELAXER"
+      },
+      {
+        "name": "House Of The Rising Sun",
+        "artist": "alt-J",
+        "duration": 321,
+        "year": "2017",
+        "album": "RELAXER"
+      },
+      {
+        "name": "Hit Me Like That Snare",
+        "artist": "alt-J",
+        "duration": 217,
+        "year": "2017",
+        "album": "RELAXER"
+      },
+      {
+        "name": "Deadcrush",
+        "artist": "alt-J",
+        "duration": 232,
+        "year": "2017",
+        "album": "RELAXER"
+      },
+      {
+        "name": "Adeline",
+        "artist": "alt-J",
+        "duration": 350,
+        "year": "2017",
+        "album": "RELAXER"
+      },
+      {
+        "name": "Last Year",
+        "artist": "alt-J",
+        "duration": 366,
+        "year": "2017",
+        "album": "RELAXER"
+      },
+      {
+        "name": "Pleader",
+        "artist": "alt-J",
+        "duration": 309,
+        "year": "2017",
+        "album": "RELAXER"
+      }
+    ]
+  },
+  {
+    "name": "Hunger Of The Pine",
+    "year": "2014",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Hunger of the Pine",
+        "artist": "alt-J",
+        "duration": 299,
+        "year": "2014",
+        "album": "Hunger Of The Pine"
+      }
+    ]
+  },
+  {
+    "name": "Every Other Freckle",
+    "year": "2014",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Every Other Freckle",
+        "artist": "alt-J",
+        "duration": 216,
+        "year": "2014",
+        "album": "Every Other Freckle"
+      }
+    ]
+  },
+  {
+    "name": "An Awesome Wave (Deluxe Version)",
+    "year": "2012",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Intro",
+        "artist": "alt-J",
+        "duration": 157,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Interlude I (The Ripe & Ruin)",
+        "artist": "alt-J",
+        "duration": 72,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Tessellate",
+        "artist": "alt-J",
+        "duration": 182,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Breezeblocks",
+        "artist": "alt-J",
+        "duration": 229,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Interlude II",
+        "artist": "alt-J",
+        "duration": 77,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Something Good",
+        "artist": "alt-J",
+        "duration": 218,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Dissolve Me",
+        "artist": "alt-J",
+        "duration": 257,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Matilda",
+        "artist": "alt-J",
+        "duration": 228,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Ms",
+        "artist": "alt-J",
+        "duration": 239,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Fitzpleasure",
+        "artist": "alt-J",
+        "duration": 219,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Interlude III",
+        "artist": "alt-J",
+        "duration": 54,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Bloodflood",
+        "artist": "alt-J",
+        "duration": 249,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Taro",
+        "artist": "alt-J",
+        "duration": 316,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Hand-Made",
+        "artist": "alt-J",
+        "duration": 157,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Taro (Live from the Africa Centre 14.04.12)",
+        "artist": "alt-J",
+        "duration": 263,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Fitzpleasure (Live from the Africa Centre 14.04.12)",
+        "artist": "alt-J",
+        "duration": 243,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Tessellate (Live from the Africa Centre 14.04.12)",
+        "artist": "alt-J",
+        "duration": 266,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Bloodflood (SARM Acoustic Version)",
+        "artist": "alt-J",
+        "duration": 214,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Matilda (SARM Acoustic Version)",
+        "artist": "alt-J",
+        "duration": 239,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Something Good (SARM acoustic version)",
+        "artist": "alt-J",
+        "duration": 220,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Fitzpleasure (bretonLABS Remix)",
+        "artist": "alt-J",
+        "duration": 263,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Matilda - Ghostpoet 'Gang Panang Adlit' Remix",
+        "artist": "alt-J",
+        "duration": 229,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Tessellate (Dam Mantle Remix)",
+        "artist": "alt-J",
+        "duration": 377,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Breezeblocks - Tom Vek's SFX Remix",
+        "artist": "alt-J",
+        "duration": 318,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      },
+      {
+        "name": "Something Good - BlackBox Remix",
+        "artist": "alt-J",
+        "duration": 389,
+        "year": "2012",
+        "album": "An Awesome Wave (Deluxe Version)"
+      }
+    ]
+  },
+  {
+    "name": "Left Hand Free",
+    "year": "2014",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Left Hand Free",
+        "artist": "alt-J",
+        "duration": 172,
+        "year": "2014",
+        "album": "Left Hand Free"
+      },
+      {
+        "name": "Left Hand Free - Lido Remix",
+        "artist": "alt-J",
+        "duration": 250,
+        "year": "2014",
+        "album": "Left Hand Free"
+      }
+    ]
+  },
+  {
+    "name": "3WW",
+    "year": "2017",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "3WW",
+        "artist": "alt-J",
+        "duration": 300,
+        "year": "2017",
+        "album": "3WW"
+      }
+    ]
+  },
+  {
+    "name": "In Cold Blood",
+    "year": "2017",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": []
+  },
+  {
+    "name": "Spotify Singles",
+    "year": "2017",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "In Cold Blood - Recorded at Spotify Studios NYC",
+        "artist": "alt-J",
+        "duration": 202,
+        "year": "2017",
+        "album": "Spotify Singles"
+      },
+      {
+        "name": "Dancing In The Moonlight (It's Caught Me In Its Spotlight) - Recorded At Spotify Studios NYC",
+        "artist": "alt-J",
+        "duration": 143,
+        "year": "2017",
+        "album": "Spotify Singles"
+      }
+    ]
+  },
+  {
+    "name": "Reduxer",
+    "year": "2018",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "3WW (OTG Version)",
+        "artist": "alt-J",
+        "duration": 307,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "In Cold Blood (Twin Shadow Version)",
+        "artist": "alt-J",
+        "duration": 166,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "House Of The Rising Sun (Tuka Version)",
+        "artist": "alt-J",
+        "duration": 293,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "Hit Me Like That Snare (Jimi Charles Moody Version)",
+        "artist": "alt-J",
+        "duration": 212,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "Deadcrush (Alchemist x Trooko Version)",
+        "artist": "alt-J",
+        "duration": 243,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "Adeline (ADP Version)",
+        "artist": "alt-J",
+        "duration": 226,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "Last Year (Terrace Martin Version)",
+        "artist": "alt-J",
+        "duration": 257,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "Pleader (Trooko Version)",
+        "artist": "alt-J",
+        "duration": 286,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "3WW (Lomepal Version)",
+        "artist": "alt-J",
+        "duration": 195,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "In Cold Blood (feat. Kontra K)",
+        "artist": "alt-J",
+        "duration": 214,
+        "year": "2018",
+        "album": "Reduxer"
+      },
+      {
+        "name": "Hit Me Like That Snare (Rejjie Snow Version)",
+        "artist": "alt-J",
+        "duration": 179,
+        "year": "2018",
+        "album": "Reduxer"
+      }
+    ]
+  },
+  {
+    "name": "Left Hand Free (Lido Remix)",
+    "year": "2014",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Left Hand Free - Lido Remix",
+        "artist": "alt-J",
+        "duration": 250,
+        "year": "2014",
+        "album": "Left Hand Free (Lido Remix)"
+      }
+    ]
+  },
+  {
+    "name": "Matilda / Fitzpleasure",
+    "year": "2012",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Matilda",
+        "artist": "alt-J",
+        "duration": 228,
+        "year": "2012",
+        "album": "Matilda / Fitzpleasure"
+      },
+      {
+        "name": "Fitzpleasure",
+        "artist": "alt-J",
+        "duration": 219,
+        "year": "2012",
+        "album": "Matilda / Fitzpleasure"
+      }
+    ]
+  },
+  {
+    "name": "Breezeblocks",
+    "year": "2012",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Breezeblocks",
+        "artist": "alt-J",
+        "duration": 229,
+        "year": "2012",
+        "album": "Breezeblocks"
+      },
+      {
+        "name": "Breezeblocks - Tom Vek's SFX Remix",
+        "artist": "alt-J",
+        "duration": 318,
+        "year": "2012",
+        "album": "Breezeblocks"
+      },
+      {
+        "name": "Breezeblocks - B-Ju Remix",
+        "artist": "alt-J",
+        "duration": 239,
+        "year": "2012",
+        "album": "Breezeblocks"
+      },
+      {
+        "name": "Breezeblocks - Rockdaworld Remix",
+        "artist": "alt-J",
+        "duration": 281,
+        "year": "2012",
+        "album": "Breezeblocks"
+      }
+    ]
+  },
+  {
+    "name": "Dissolve Me",
+    "year": "2013",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Dissolve Me",
+        "artist": "alt-J",
+        "duration": 257,
+        "year": "2013",
+        "album": "Dissolve Me"
+      },
+      {
+        "name": "Dissolve Me (Romare Remix) [Romare Remix]",
+        "artist": "alt-J",
+        "duration": "",
+        "year": "2013",
+        "album": "Dissolve Me"
+      },
+      {
+        "name": "Dissolve Me (Marlais Remix) [Marlais Remix]",
+        "artist": "alt-J",
+        "duration": "",
+        "year": "2013",
+        "album": "Dissolve Me"
+      },
+      {
+        "name": "Dissolve Me (Fryars Remix) [Fryars Remix]",
+        "artist": "alt-J",
+        "duration": "",
+        "year": "2013",
+        "album": "Dissolve Me"
+      },
+      {
+        "name": "Dissolve Me (Planet of Sound Remix) [Planet of Sound Remix]",
+        "artist": "alt-J",
+        "duration": "",
+        "year": "2013",
+        "album": "Dissolve Me"
+      }
+    ]
+  },
+  {
+    "name": "Spotify Sessions",
+    "year": "2014",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Fitzpleasure (Live from Lido, Berlin) - Spotify Session",
+        "artist": "alt-J",
+        "duration": 215,
+        "year": "2014",
+        "album": "Spotify Sessions"
+      },
+      {
+        "name": "Left Hand Free (Live from Lido, Berlin) - Spotify Session",
+        "artist": "alt-J",
+        "duration": 177,
+        "year": "2014",
+        "album": "Spotify Sessions"
+      },
+      {
+        "name": "Every Other Freckle (Live from Lido, Berlin) - Spotify Session",
+        "artist": "alt-J",
+        "duration": 229,
+        "year": "2014",
+        "album": "Spotify Sessions"
+      },
+      {
+        "name": "Nara - Live from Lido, Berlin",
+        "artist": "alt-J",
+        "duration": 321,
+        "year": "2014",
+        "album": "Spotify Sessions"
+      },
+      {
+        "name": "Breezeblocks (Live from Lido, Berlin) - Spotify Session",
+        "artist": "alt-J",
+        "duration": 239,
+        "year": "2014",
+        "album": "Spotify Sessions"
+      }
+    ]
+  },
+  {
+    "name": "Live at Red Rocks",
+    "year": "2016",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Hunger of the Pine",
+        "artist": "alt-J",
+        "duration": 299,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Fitzpleasure",
+        "artist": "alt-J",
+        "duration": 219,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Something Good",
+        "artist": "alt-J",
+        "duration": 218,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Left Hand Free",
+        "artist": "alt-J",
+        "duration": 172,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Dissolve Me",
+        "artist": "alt-J",
+        "duration": 257,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Matilda/Interlude 2",
+        "artist": "alt-J",
+        "duration": 325,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Bloodflood",
+        "artist": "alt-J",
+        "duration": 249,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Bloodflood, Part II",
+        "artist": "alt-J",
+        "duration": 301,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Interlude 1",
+        "artist": "alt-J",
+        "duration": 72,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Tessellate",
+        "artist": "alt-J",
+        "duration": 182,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Every Other Freckle",
+        "artist": "alt-J",
+        "duration": 216,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Taro",
+        "artist": "alt-J",
+        "duration": 316,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Warm Foothills",
+        "artist": "alt-J",
+        "duration": 225,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "The Gospel of John Hurt",
+        "artist": "alt-J",
+        "duration": 315,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Lovely Day",
+        "artist": "alt-J",
+        "duration": 241,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Nara",
+        "artist": "alt-J",
+        "duration": 296,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Leaving Nara",
+        "artist": "alt-J",
+        "duration": 120,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      },
+      {
+        "name": "Breezeblocks",
+        "artist": "alt-J",
+        "duration": 229,
+        "year": "2016",
+        "album": "Live at Red Rocks"
+      }
+    ]
+  },
+  {
+    "name": "Every Other Freckle (Daytrip Remix)",
+    "year": "2015",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Every Other Freckle - Daytrip Remix",
+        "artist": "alt-J",
+        "duration": 246,
+        "year": "2015",
+        "album": "Every Other Freckle (Daytrip Remix)"
+      }
+    ]
+  },
+  {
+    "name": "Adeline",
+    "year": "2017",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Adeline",
+        "artist": "alt-J",
+        "duration": 350,
+        "year": "2017",
+        "album": "Adeline"
+      }
+    ]
+  },
+  {
+    "name": "Matilda",
+    "year": "2012",
+    "genre": null,
+    "artist": "alt-J",
+    "songs": [
+      {
+        "name": "Matilda",
+        "artist": "alt-J",
+        "duration": 228,
+        "year": "2012",
+        "album": "Matilda"
+      },
+      {
+        "name": "Matilda (Johnson Somerset Remix)",
+        "artist": "alt-J",
+        "duration": 440,
+        "year": "2012",
+        "album": "Matilda"
+      },
+      {
+        "name": "Matilda (GeN0 Remix)",
+        "artist": "alt-J",
+        "duration": 249,
+        "year": "2012",
+        "album": "Matilda"
+      },
+      {
+        "name": "Matilda (Julian Neumann Remix)",
+        "artist": "alt-J",
+        "duration": 247,
+        "year": "2012",
+        "album": "Matilda"
+      }
+    ]
+  }
+]
